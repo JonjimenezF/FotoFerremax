@@ -1,3 +1,6 @@
+OBJETIVOS DE LAS PRUEBAS:
+
+
 setUp y tearDown:
 
 setUp: Se ejecuta antes de cada prueba. Configura la aplicación Flask para pruebas y crea un cliente de prueba.
