@@ -16,4 +16,7 @@ Contenido
 [] Instalacion + arranque
 
 
+Para realizar las pruebas unitarias ejecutar:
+
+python test_app.py
 
