@@ -66,6 +66,8 @@ Este repositorio contiene el proyecto FotoFerremax. A continuación, se detallan
     python3 main.py
     ```
 
-9. Para ejecutar el las pruebas de test_main.py
-    python test_main.py
-M    
+9. **Para ejecutar el las pruebas de test_main.py**:
+     ```sh
+   python test_main.py
+
+    ```
